@@ -1,0 +1,2 @@
+deepface==0.0.93
+gdown==5.2.0
