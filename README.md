@@ -18,14 +18,7 @@ DriveCopier is a Docker-based tool that helps you scan Google Drive folders for 
 
 ## Quick Start
 
-### Option 1: Pull from Docker Hub
-
-```bash
-# Docker image will be available at: 
-# [DOCKER_HUB_LINK_PLACEHOLDER]
-```
-
-### Option 2: Build Locally
+### Option 1: Build Locally
 
 1. Clone this repository
    ```bash
